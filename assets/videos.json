@@ -1,0 +1,18 @@
+[
+  {
+    "id": "1",
+    "title": "Learning React Native",
+    "thumbnail": "https://example.com/thumbnail1.jpg",
+    "videoUrl": "https://example.com/video1.mp4",
+    "creator": "ReactGuru",
+    "creatorAvatar": "https://example.com/avatar1.jpg"
+  },
+  {
+    "id": "2",
+    "title": "Mastering JavaScript",
+    "thumbnail": "https://example.com/thumbnail2.jpg",
+    "videoUrl": "https://example.com/video2.mp4",
+    "creator": "JSMaster",
+    "creatorAvatar": "https://example.com/avatar2.jpg"
+  }
+]
